@@ -2,6 +2,8 @@
 
 A Python script that summarizes file contents using a local LLM (Ollama) and renames files based on the summary.
 
+Created by Your Name.
+
 ## Requirements
 
 - Python 3.7+
